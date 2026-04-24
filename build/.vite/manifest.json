@@ -1,0 +1,2504 @@
+{
+<<<<<<< Updated upstream
+  "_BackButton-D20vNzrN.css": {
+    "file": "assets/BackButton-D20vNzrN.css",
+    "src": "_BackButton-D20vNzrN.css"
+  },
+  "_BackButton-L6EhJWkv.js": {
+    "file": "assets/BackButton-L6EhJWkv.js",
+=======
+  "_BackButton-CFLWcfRS.js": {
+    "file": "assets/BackButton-CFLWcfRS.js",
+>>>>>>> Stashed changes
+    "name": "BackButton",
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/BackButton-D20vNzrN.css"
+    ]
+  },
+  "_CardSimple-74BTq_PW.css": {
+    "file": "assets/CardSimple-74BTq_PW.css",
+    "src": "_CardSimple-74BTq_PW.css"
+  },
+<<<<<<< Updated upstream
+  "_CardSimple-7hkZyELO.js": {
+    "file": "assets/CardSimple-7hkZyELO.js",
+=======
+  "_CardSimple-CIoHxGjb.js": {
+    "file": "assets/CardSimple-CIoHxGjb.js",
+>>>>>>> Stashed changes
+    "name": "CardSimple",
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/CardSimple-74BTq_PW.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_ConfirmModal-BqwNLkN-.js": {
+    "file": "assets/ConfirmModal-BqwNLkN-.js",
+=======
+  "_ConfirmModal-Bx4qXhHy.js": {
+    "file": "assets/ConfirmModal-Bx4qXhHy.js",
+>>>>>>> Stashed changes
+    "name": "ConfirmModal",
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/ConfirmModal-CwT_yJtn.css"
+    ]
+  },
+  "_ConfirmModal-CwT_yJtn.css": {
+    "file": "assets/ConfirmModal-CwT_yJtn.css",
+    "src": "_ConfirmModal-CwT_yJtn.css"
+  },
+  "_FileImage-BIlzHhhg.js": {
+    "file": "assets/FileImage-BIlzHhhg.js",
+    "name": "FileImage",
+    "imports": [
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_GlobalAnnouncement-C8eNh4o0.js": {
+    "file": "assets/GlobalAnnouncement-C8eNh4o0.js",
+=======
+  "_GlobalAnnouncement-DG_RsmhB.css": {
+    "file": "assets/GlobalAnnouncement-DG_RsmhB.css",
+    "src": "_GlobalAnnouncement-DG_RsmhB.css"
+  },
+  "_GlobalAnnouncement-DQ_48p1g.js": {
+    "file": "assets/GlobalAnnouncement-DQ_48p1g.js",
+>>>>>>> Stashed changes
+    "name": "GlobalAnnouncement",
+    "imports": [
+      "_useAnnouncements-CcXbeMh9.js",
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/GlobalAnnouncement-DG_RsmhB.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_GlobalAnnouncement-DG_RsmhB.css": {
+    "file": "assets/GlobalAnnouncement-DG_RsmhB.css",
+    "src": "_GlobalAnnouncement-DG_RsmhB.css"
+  },
+  "_HomeSkeleton-BQ8IrL_P.js": {
+    "file": "assets/HomeSkeleton-BQ8IrL_P.js",
+=======
+  "_HomeSkeleton-BbykMXEt.css": {
+    "file": "assets/HomeSkeleton-BbykMXEt.css",
+    "src": "_HomeSkeleton-BbykMXEt.css"
+  },
+  "_HomeSkeleton-Dl9_7T7y.js": {
+    "file": "assets/HomeSkeleton-Dl9_7T7y.js",
+>>>>>>> Stashed changes
+    "name": "HomeSkeleton",
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_usePageData-C6AH2_4P.js",
+      "_IconImage-BlM5Pej3.js",
+<<<<<<< Updated upstream
+      "_SearchBar-BttZUgR-.js",
+      "_SkeletonBlock-DkOo8XIA.js"
+=======
+      "_SearchBar-BnCvQtzy.js",
+      "_SkeletonBlock-Bcn1FAIQ.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/HomeSkeleton-BbykMXEt.css"
+    ]
+  },
+  "_HomeSkeleton-BbykMXEt.css": {
+    "file": "assets/HomeSkeleton-BbykMXEt.css",
+    "src": "_HomeSkeleton-BbykMXEt.css"
+  },
+  "_IconImage-BlM5Pej3.js": {
+    "file": "assets/IconImage-BlM5Pej3.js",
+    "name": "IconImage",
+    "imports": [
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_InputGroupButton-Bmkcuhiv.js": {
+    "file": "assets/InputGroupButton-Bmkcuhiv.js",
+    "name": "InputGroupButton",
+    "imports": [
+      "_LoadingSpinner-B85k-J0U.js",
+=======
+  "_InputGroupButton-COrpqvPr.css": {
+    "file": "assets/InputGroupButton-COrpqvPr.css",
+    "src": "_InputGroupButton-COrpqvPr.css"
+  },
+  "_InputGroupButton-CjMsrvB0.js": {
+    "file": "assets/InputGroupButton-CjMsrvB0.js",
+    "name": "InputGroupButton",
+    "imports": [
+      "_LoadingSpinner-DmTsI6N9.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/InputGroupButton-COrpqvPr.css"
+    ]
+  },
+  "_InputGroupButton-COrpqvPr.css": {
+    "file": "assets/InputGroupButton-COrpqvPr.css",
+    "src": "_InputGroupButton-COrpqvPr.css"
+  },
+  "_InputGroupSelect-BuHPY9NG.css": {
+    "file": "assets/InputGroupSelect-BuHPY9NG.css",
+    "src": "_InputGroupSelect-BuHPY9NG.css"
+  },
+<<<<<<< Updated upstream
+  "_InputGroupSelect-Dztd3KqU.js": {
+    "file": "assets/InputGroupSelect-Dztd3KqU.js",
+=======
+  "_InputGroupSelect-D3bH3NwU.js": {
+    "file": "assets/InputGroupSelect-D3bH3NwU.js",
+>>>>>>> Stashed changes
+    "name": "InputGroupSelect",
+    "imports": [
+      "_IconImage-BlM5Pej3.js",
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/InputGroupSelect-BuHPY9NG.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_InputGroupTextarea-DONTSX3I.js": {
+    "file": "assets/InputGroupTextarea-DONTSX3I.js",
+    "name": "InputGroupTextarea",
+    "imports": [
+      "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-BkM6DnDh.js",
+=======
+  "_InputGroupTextarea-BPco1CFd.js": {
+    "file": "assets/InputGroupTextarea-BPco1CFd.js",
+    "name": "InputGroupTextarea",
+    "imports": [
+      "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-eKdwv6M_.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+  "_InputGroupTextarea-YVckn51m.css": {
+    "file": "assets/InputGroupTextarea-YVckn51m.css",
+    "src": "_InputGroupTextarea-YVckn51m.css"
+  },
+<<<<<<< Updated upstream
+  "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-BkM6DnDh.js": {
+    "file": "assets/InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-BkM6DnDh.js",
+=======
+  "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-eKdwv6M_.js": {
+    "file": "assets/InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-eKdwv6M_.js",
+>>>>>>> Stashed changes
+    "name": "InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang",
+    "imports": [
+      "_IconImage-BlM5Pej3.js",
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/InputGroupTextarea-YVckn51m.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_LoadingSpinner-B85k-J0U.js": {
+    "file": "assets/LoadingSpinner-B85k-J0U.js",
+=======
+  "_LoadingSpinner-CznhUxaB.css": {
+    "file": "assets/LoadingSpinner-CznhUxaB.css",
+    "src": "_LoadingSpinner-CznhUxaB.css"
+  },
+  "_LoadingSpinner-DmTsI6N9.js": {
+    "file": "assets/LoadingSpinner-DmTsI6N9.js",
+>>>>>>> Stashed changes
+    "name": "LoadingSpinner",
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_LoadingSpinner-CznhUxaB.css": {
+    "file": "assets/LoadingSpinner-CznhUxaB.css",
+    "src": "_LoadingSpinner-CznhUxaB.css"
+  },
+  "_ProductCard-BbkEnGWR.css": {
+    "file": "assets/ProductCard-BbkEnGWR.css",
+    "src": "_ProductCard-BbkEnGWR.css"
+  },
+  "_ProductCard-Cioy_eJ6.js": {
+    "file": "assets/ProductCard-Cioy_eJ6.js",
+=======
+  "_ProductCard-B9gijt9K.js": {
+    "file": "assets/ProductCard-B9gijt9K.js",
+>>>>>>> Stashed changes
+    "name": "ProductCard",
+    "imports": [
+      "_FileImage-BIlzHhhg.js",
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/ProductCard-BbkEnGWR.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_SearchBar-BttZUgR-.js": {
+    "file": "assets/SearchBar-BttZUgR-.js",
+=======
+  "_ProductCard-BbkEnGWR.css": {
+    "file": "assets/ProductCard-BbkEnGWR.css",
+    "src": "_ProductCard-BbkEnGWR.css"
+  },
+  "_SearchBar-BnCvQtzy.js": {
+    "file": "assets/SearchBar-BnCvQtzy.js",
+>>>>>>> Stashed changes
+    "name": "SearchBar",
+    "imports": [
+      "_IconImage-BlM5Pej3.js",
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/SearchBar-C6Dc8-k4.css"
+    ]
+  },
+  "_SearchBar-C6Dc8-k4.css": {
+    "file": "assets/SearchBar-C6Dc8-k4.css",
+    "src": "_SearchBar-C6Dc8-k4.css"
+  },
+<<<<<<< Updated upstream
+  "_SearchableTableWrapper-CuLxCeCj.css": {
+    "file": "assets/SearchableTableWrapper-CuLxCeCj.css",
+    "src": "_SearchableTableWrapper-CuLxCeCj.css"
+  },
+  "_SearchableTableWrapper-YTpl4pej.js": {
+    "file": "assets/SearchableTableWrapper-YTpl4pej.js",
+    "name": "SearchableTableWrapper",
+    "imports": [
+      "_SearchBar-BttZUgR-.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SkeletonTable-DSaPhEz3.js",
+=======
+  "_SearchableTableWrapper-CMdVZlpX.js": {
+    "file": "assets/SearchableTableWrapper-CMdVZlpX.js",
+    "name": "SearchableTableWrapper",
+    "imports": [
+      "_SearchBar-BnCvQtzy.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SkeletonTable-CC_IT7D2.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/SearchableTableWrapper-CuLxCeCj.css"
+    ]
+  },
+  "_ServiceButtonGrid-DQRxiYtv.js": {
+    "file": "assets/ServiceButtonGrid-DQRxiYtv.js",
+    "name": "ServiceButtonGrid",
+    "imports": [
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+  "_SideTextButtonList-ChJJCzFM.css": {
+    "file": "assets/SideTextButtonList-ChJJCzFM.css",
+    "src": "_SideTextButtonList-ChJJCzFM.css"
+  },
+<<<<<<< Updated upstream
+  "_SideTextButtonList-DTfF3ex-.js": {
+    "file": "assets/SideTextButtonList-DTfF3ex-.js",
+=======
+  "_SideTextButtonList-STLwUe6g.js": {
+    "file": "assets/SideTextButtonList-STLwUe6g.js",
+>>>>>>> Stashed changes
+    "name": "SideTextButtonList",
+    "imports": [
+      "_IconImage-BlM5Pej3.js",
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/SideTextButtonList-ChJJCzFM.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_SkeletonBlock-DkOo8XIA.js": {
+    "file": "assets/SkeletonBlock-DkOo8XIA.js",
+=======
+  "_SkeletonBlock-Bcn1FAIQ.js": {
+    "file": "assets/SkeletonBlock-Bcn1FAIQ.js",
+>>>>>>> Stashed changes
+    "name": "SkeletonBlock",
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/SkeletonBlock-KUWmKvJ7.css"
+    ]
+  },
+  "_SkeletonBlock-KUWmKvJ7.css": {
+    "file": "assets/SkeletonBlock-KUWmKvJ7.css",
+    "src": "_SkeletonBlock-KUWmKvJ7.css"
+  },
+  "_SkeletonTable-BYOGK8tP.css": {
+    "file": "assets/SkeletonTable-BYOGK8tP.css",
+    "src": "_SkeletonTable-BYOGK8tP.css"
+  },
+<<<<<<< Updated upstream
+  "_SkeletonTable-DSaPhEz3.js": {
+    "file": "assets/SkeletonTable-DSaPhEz3.js",
+    "name": "SkeletonTable",
+    "imports": [
+      "_SkeletonBlock-DkOo8XIA.js",
+=======
+  "_SkeletonTable-CC_IT7D2.js": {
+    "file": "assets/SkeletonTable-CC_IT7D2.js",
+    "name": "SkeletonTable",
+    "imports": [
+      "_SkeletonBlock-Bcn1FAIQ.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/SkeletonTable-BYOGK8tP.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_StoreListSkeleton-BPpcBW-d.js": {
+    "file": "assets/StoreListSkeleton-BPpcBW-d.js",
+=======
+  "_StoreListSkeleton-D3yogkW0.js": {
+    "file": "assets/StoreListSkeleton-D3yogkW0.js",
+>>>>>>> Stashed changes
+    "name": "StoreListSkeleton",
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_SkeletonBlock-DkOo8XIA.js"
+=======
+      "_SkeletonBlock-Bcn1FAIQ.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/StoreListSkeleton-HLzpKiEA.css"
+    ]
+  },
+  "_StoreListSkeleton-HLzpKiEA.css": {
+    "file": "assets/StoreListSkeleton-HLzpKiEA.css",
+    "src": "_StoreListSkeleton-HLzpKiEA.css"
+  },
+  "_TableDensityToggle-BDqctG_8.css": {
+    "file": "assets/TableDensityToggle-BDqctG_8.css",
+    "src": "_TableDensityToggle-BDqctG_8.css"
+  },
+<<<<<<< Updated upstream
+  "_TableDensityToggle-J8o_a6GE.js": {
+    "file": "assets/TableDensityToggle-J8o_a6GE.js",
+=======
+  "_TableDensityToggle-DzKgxNCc.js": {
+    "file": "assets/TableDensityToggle-DzKgxNCc.js",
+>>>>>>> Stashed changes
+    "name": "TableDensityToggle",
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/TableDensityToggle-BDqctG_8.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_TransactionListSkeleton-C11libmC.js": {
+    "file": "assets/TransactionListSkeleton-C11libmC.js",
+    "name": "TransactionListSkeleton",
+    "imports": [
+      "_SkeletonBlock-DkOo8XIA.js",
+=======
+  "_TransactionListSkeleton-CK7M8M0D.css": {
+    "file": "assets/TransactionListSkeleton-CK7M8M0D.css",
+    "src": "_TransactionListSkeleton-CK7M8M0D.css"
+  },
+  "_TransactionListSkeleton-DGLJQKR6.js": {
+    "file": "assets/TransactionListSkeleton-DGLJQKR6.js",
+    "name": "TransactionListSkeleton",
+    "imports": [
+      "_SkeletonBlock-Bcn1FAIQ.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/TransactionListSkeleton-CK7M8M0D.css"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_TransactionListSkeleton-CK7M8M0D.css": {
+    "file": "assets/TransactionListSkeleton-CK7M8M0D.css",
+    "src": "_TransactionListSkeleton-CK7M8M0D.css"
+  },
+  "_leaflet-src-CxuAggNq.js": {
+    "file": "assets/leaflet-src-CxuAggNq.js",
+=======
+  "_leaflet-src-tix7Ox0-.js": {
+    "file": "assets/leaflet-src-tix7Ox0-.js",
+>>>>>>> Stashed changes
+    "name": "leaflet-src",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_noproductphoto-UH-imJqI.js": {
+    "file": "assets/noproductphoto-UH-imJqI.js",
+    "name": "noproductphoto"
+  },
+<<<<<<< Updated upstream
+  "_store-QU59OX9Y.js": {
+    "file": "assets/store-QU59OX9Y.js",
+=======
+  "_store-Cqv4nEfC.js": {
+    "file": "assets/store-Cqv4nEfC.js",
+>>>>>>> Stashed changes
+    "name": "store",
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_useAnnouncements-CcXbeMh9.js": {
+    "file": "assets/useAnnouncements-CcXbeMh9.js",
+    "name": "useAnnouncements",
+    "imports": [
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+  "_useFileUpload-BC-rm7XH.css": {
+    "file": "assets/useFileUpload-BC-rm7XH.css",
+    "src": "_useFileUpload-BC-rm7XH.css"
+  },
+<<<<<<< Updated upstream
+  "_useFileUpload-umNfKb1v.js": {
+    "file": "assets/useFileUpload-umNfKb1v.js",
+=======
+  "_useFileUpload-Bgy475YB.js": {
+    "file": "assets/useFileUpload-Bgy475YB.js",
+>>>>>>> Stashed changes
+    "name": "useFileUpload",
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/useFileUpload-BC-rm7XH.css"
+    ]
+  },
+  "_useGlobalTransactions-BV-MAAUi.js": {
+    "file": "assets/useGlobalTransactions-BV-MAAUi.js",
+    "name": "useGlobalTransactions",
+    "imports": [
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+  "_usePageData-C6AH2_4P.js": {
+    "file": "assets/usePageData-C6AH2_4P.js",
+    "name": "usePageData",
+    "imports": [
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+<<<<<<< Updated upstream
+  "_usePageTitle-CkXgnaqr.js": {
+    "file": "assets/usePageTitle-CkXgnaqr.js",
+=======
+  "_usePageTitle-BUBzZ_UB.js": {
+    "file": "assets/usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+    "name": "usePageTitle",
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+  "_useUserSettings-CgBPnYH1.js": {
+    "file": "assets/useUserSettings-CgBPnYH1.js",
+    "name": "useUserSettings",
+    "imports": [
+      "_vendor-Crvo9FBn.js"
+    ]
+  },
+  "_vendor-Crvo9FBn.js": {
+    "file": "assets/vendor-Crvo9FBn.js",
+    "name": "vendor"
+  },
+  "node_modules/leaflet/dist/leaflet.css": {
+    "file": "assets/leaflet-CIGW-MKW.css",
+    "src": "node_modules/leaflet/dist/leaflet.css"
+  },
+  "resources/js/Pages/AccountSettings.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/AccountSettings-DWqs4ZLH.js",
+=======
+    "file": "assets/AccountSettings-CfnD4XUD.js",
+>>>>>>> Stashed changes
+    "name": "AccountSettings",
+    "src": "resources/js/Pages/AccountSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "resources/js/Pages/Auth/Login.vue",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_useUserSettings-CgBPnYH1.js",
+      "_TableDensityToggle-J8o_a6GE.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_useUserSettings-CgBPnYH1.js",
+      "_TableDensityToggle-DzKgxNCc.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/AccountSettings-w8NhP83I.css",
+      "assets/CardSimple-74BTq_PW.css",
+      "assets/LoadingSpinner-CznhUxaB.css",
+      "assets/InputGroupButton-COrpqvPr.css"
+    ]
+  },
+  "resources/js/Pages/AccountingDashboard.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/AccountingDashboard-BjGNQgkM.js",
+=======
+    "file": "assets/AccountingDashboard-BiG2R795.js",
+>>>>>>> Stashed changes
+    "name": "AccountingDashboard",
+    "src": "resources/js/Pages/AccountingDashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/AccountingDashboard-D6VYRR_Y.css"
+    ]
+  },
+  "resources/js/Pages/AddTransaction.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/AddTransaction-CPNVDKUA.js",
+=======
+    "file": "assets/AddTransaction-BKfCFVyH.js",
+>>>>>>> Stashed changes
+    "name": "AddTransaction",
+    "src": "resources/js/Pages/AddTransaction.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/AddTransaction-BZROouuQ.css"
+    ]
+  },
+  "resources/js/Pages/AssignProductToStore.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/AssignProductToStore-BX99yG52.js",
+=======
+    "file": "assets/AssignProductToStore-DAaUvbq4.js",
+>>>>>>> Stashed changes
+    "name": "AssignProductToStore",
+    "src": "resources/js/Pages/AssignProductToStore.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-B85k-J0U.js",
+      "_CardSimple-7hkZyELO.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+      "_CardSimple-CIoHxGjb.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/AssignProductToStore-COF0hM_Z.css",
+      "assets/LoadingSpinner-CznhUxaB.css",
+      "assets/CardSimple-74BTq_PW.css"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/Login-BUk3jY6P.js",
+=======
+    "file": "assets/Login-DaN84Bdg.js",
+>>>>>>> Stashed changes
+    "name": "Login",
+    "src": "resources/js/Pages/Auth/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/Login-DkQSyBWj.css"
+    ]
+  },
+  "resources/js/Pages/BatchAddProducts.vue": {
+    "file": "assets/BatchAddProducts-B8wP-VNF.js",
+    "name": "BatchAddProducts",
+    "src": "resources/js/Pages/BatchAddProducts.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_usePageTitle-CkXgnaqr.js",
+      "_BackButton-L6EhJWkv.js",
+      "_LoadingSpinner-B85k-J0U.js"
+    ],
+    "css": [
+      "assets/BatchAddProducts-v8GWYp4H.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/BatchAddStores.vue": {
+    "file": "assets/BatchAddStores-CFHaVzv7.js",
+    "name": "BatchAddStores",
+    "src": "resources/js/Pages/BatchAddStores.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_usePageTitle-CkXgnaqr.js",
+      "_BackButton-L6EhJWkv.js",
+      "_LoadingSpinner-B85k-J0U.js"
+    ],
+    "css": [
+      "assets/BatchAddStores-Bj2J_lm6.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/BatchAddUsers.vue": {
+    "file": "assets/BatchAddUsers-DaEIxc2V.js",
+    "name": "BatchAddUsers",
+    "src": "resources/js/Pages/BatchAddUsers.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_usePageTitle-CkXgnaqr.js",
+      "_BackButton-L6EhJWkv.js",
+      "_LoadingSpinner-B85k-J0U.js"
+    ],
+    "css": [
+      "assets/BatchAddUsers-CtZRXCcX.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/BuyViewProductMarket.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/BuyViewProductMarket-DRDK4ZyR.js",
+=======
+    "file": "assets/BuyViewProductMarket-DvQGbo3J.js",
+>>>>>>> Stashed changes
+    "name": "BuyViewProductMarket",
+    "src": "resources/js/Pages/BuyViewProductMarket.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_vendor-Crvo9FBn.js",
+      "_LoadingSpinner-B85k-J0U.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_vendor-Crvo9FBn.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+>>>>>>> Stashed changes
+      "_FileImage-BIlzHhhg.js"
+    ],
+    "css": [
+      "assets/BuyViewProductMarket-Bz3lPwXn.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/CartProductMarket.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/CartProductMarket-CdX2NIG0.js",
+=======
+    "file": "assets/CartProductMarket--m8ChokM.js",
+>>>>>>> Stashed changes
+    "name": "CartProductMarket",
+    "src": "resources/js/Pages/CartProductMarket.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-B85k-J0U.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/CartProductMarket-C3g8MUnh.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/CooperativeDetail.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/CooperativeDetail-D-S1gqTX.js",
+=======
+    "file": "assets/CooperativeDetail-K4k_9oiQ.js",
+>>>>>>> Stashed changes
+    "name": "CooperativeDetail",
+    "src": "resources/js/Pages/CooperativeDetail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_SearchableTableWrapper-YTpl4pej.js",
+      "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+      "resources/js/Pages/Fragments/DocumentRepository.vue",
+      "_SearchBar-BttZUgR-.js",
+      "_IconImage-BlM5Pej3.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SkeletonTable-DSaPhEz3.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+      "_LoadingSpinner-B85k-J0U.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_SearchableTableWrapper-CMdVZlpX.js",
+      "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+      "resources/js/Pages/Fragments/DocumentRepository.vue",
+      "_SearchBar-BnCvQtzy.js",
+      "_IconImage-BlM5Pej3.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SkeletonTable-CC_IT7D2.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+      "_LoadingSpinner-DmTsI6N9.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/CooperativeDetail-DtBOhLAb.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/CooperativeList.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/CooperativeList-BWu0nEJm.js",
+=======
+    "file": "assets/CooperativeList-BcGx8Qr-.js",
+>>>>>>> Stashed changes
+    "name": "CooperativeList",
+    "src": "resources/js/Pages/CooperativeList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_TransactionListSkeleton-C11libmC.js",
+      "_SkeletonBlock-DkOo8XIA.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_TransactionListSkeleton-DGLJQKR6.js",
+      "_SkeletonBlock-Bcn1FAIQ.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/CooperativeList-v4qHHque.css"
+    ]
+  },
+  "resources/js/Pages/CooperativeMemberRegister.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/CooperativeMemberRegister-DRZn904a.js",
+=======
+    "file": "assets/CooperativeMemberRegister-CZfU12ek.js",
+>>>>>>> Stashed changes
+    "name": "CooperativeMemberRegister",
+    "src": "resources/js/Pages/CooperativeMemberRegister.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_CardSimple-7hkZyELO.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_CardSimple-CIoHxGjb.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/CooperativeMemberRegister-MvWmxtoe.css",
+      "assets/CardSimple-74BTq_PW.css"
+    ]
+  },
+  "resources/js/Pages/Core/NotFound.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/NotFound-Bfni5rVY.js",
+=======
+    "file": "assets/NotFound-B0DRZHN8.js",
+>>>>>>> Stashed changes
+    "name": "NotFound",
+    "src": "resources/js/Pages/Core/NotFound.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/NotFound-BK5bv5Jw.css"
+    ]
+  },
+  "resources/js/Pages/CreateCooperative.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/CreateCooperative-BQtfOOBf.js",
+=======
+    "file": "assets/CreateCooperative-B25_lywH.js",
+>>>>>>> Stashed changes
+    "name": "CreateCooperative",
+    "src": "resources/js/Pages/CreateCooperative.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_CardSimple-7hkZyELO.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_CardSimple-CIoHxGjb.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/CreateCooperative-Gbec-04C.css",
+      "assets/CardSimple-74BTq_PW.css"
+    ]
+  },
+  "resources/js/Pages/CreateProductUltimate.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/CreateProductUltimate-CFZymOHg.js",
+=======
+    "file": "assets/CreateProductUltimate-BKmv9m13.js",
+>>>>>>> Stashed changes
+    "name": "CreateProductUltimate",
+    "src": "resources/js/Pages/CreateProductUltimate.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_CardSimple-7hkZyELO.js",
+      "_useFileUpload-umNfKb1v.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_CardSimple-CIoHxGjb.js",
+      "_useFileUpload-Bgy475YB.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/CreateProductUltimate-Ct8lGDz-.css",
+      "assets/LoadingSpinner-CznhUxaB.css",
+      "assets/CardSimple-74BTq_PW.css"
+    ]
+  },
+  "resources/js/Pages/CreateStore.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/CreateStore-DnG-dYls.js",
+=======
+    "file": "assets/CreateStore-yK-f9Jvs.js",
+>>>>>>> Stashed changes
+    "name": "CreateStore",
+    "src": "resources/js/Pages/CreateStore.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_CardSimple-7hkZyELO.js",
+      "_useFileUpload-umNfKb1v.js",
+      "_store-QU59OX9Y.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_CardSimple-CIoHxGjb.js",
+      "_useFileUpload-Bgy475YB.js",
+      "_store-Cqv4nEfC.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/CreateStore-Ch6Z6nkM.css",
+      "assets/LoadingSpinner-CznhUxaB.css",
+      "assets/CardSimple-74BTq_PW.css"
+    ]
+  },
+  "resources/js/Pages/CreateUser.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/CreateUser-CLxbypH_.js",
+=======
+    "file": "assets/CreateUser-yjMWbBq3.js",
+>>>>>>> Stashed changes
+    "name": "CreateUser",
+    "src": "resources/js/Pages/CreateUser.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/CreateUser-AjNcrE7m.css"
+    ]
+  },
+  "resources/js/Pages/EditProductUltimate.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/EditProductUltimate-CSAKs6WY.js",
+=======
+    "file": "assets/EditProductUltimate-agpC1hzC.js",
+>>>>>>> Stashed changes
+    "name": "EditProductUltimate",
+    "src": "resources/js/Pages/EditProductUltimate.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-B85k-J0U.js",
+      "_CardSimple-7hkZyELO.js",
+      "_useFileUpload-umNfKb1v.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+      "_CardSimple-CIoHxGjb.js",
+      "_useFileUpload-Bgy475YB.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/EditProductUltimate-98-cb-4d.css",
+      "assets/LoadingSpinner-CznhUxaB.css",
+      "assets/CardSimple-74BTq_PW.css"
+    ]
+  },
+  "resources/js/Pages/EditStoreUltimate.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/EditStoreUltimate-Cr8hN_ap.js",
+=======
+    "file": "assets/EditStoreUltimate-rZVzAxNo.js",
+>>>>>>> Stashed changes
+    "name": "EditStoreUltimate",
+    "src": "resources/js/Pages/EditStoreUltimate.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_CardSimple-7hkZyELO.js",
+      "_useFileUpload-umNfKb1v.js",
+      "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-BkM6DnDh.js",
+      "_InputGroupSelect-Dztd3KqU.js",
+      "_InputGroupButton-Bmkcuhiv.js",
+      "_InputGroupTextarea-DONTSX3I.js",
+      "_store-QU59OX9Y.js",
+      "_IconImage-BlM5Pej3.js",
+      "_LoadingSpinner-B85k-J0U.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_CardSimple-CIoHxGjb.js",
+      "_useFileUpload-Bgy475YB.js",
+      "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-eKdwv6M_.js",
+      "_InputGroupSelect-D3bH3NwU.js",
+      "_InputGroupButton-CjMsrvB0.js",
+      "_InputGroupTextarea-BPco1CFd.js",
+      "_store-Cqv4nEfC.js",
+      "_IconImage-BlM5Pej3.js",
+      "_LoadingSpinner-DmTsI6N9.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/EditStoreUltimate-DIzVzfuD.css",
+      "assets/LoadingSpinner-CznhUxaB.css",
+      "assets/CardSimple-74BTq_PW.css",
+      "assets/InputGroupButton-COrpqvPr.css"
+    ]
+  },
+  "resources/js/Pages/EditUser.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/EditUser-CdYOzX4g.js",
+=======
+    "file": "assets/EditUser-5tWiXL36.js",
+>>>>>>> Stashed changes
+    "name": "EditUser",
+    "src": "resources/js/Pages/EditUser.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/EditUser-C7iNQJtw.css"
+    ]
+  },
+  "resources/js/Pages/EnrollFarmer.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/EnrollFarmer-S7EwQAFj.js",
+=======
+    "file": "assets/EnrollFarmer-mCyuZJGN.js",
+>>>>>>> Stashed changes
+    "name": "EnrollFarmer",
+    "src": "resources/js/Pages/EnrollFarmer.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/EnrollFarmer-cF82kH6u.css"
+    ]
+  },
+  "resources/js/Pages/FarmerProfileEdit.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/FarmerProfileEdit-EPKksZAm.js",
+=======
+    "file": "assets/FarmerProfileEdit-CqkpojHi.js",
+>>>>>>> Stashed changes
+    "name": "FarmerProfileEdit",
+    "src": "resources/js/Pages/FarmerProfileEdit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/FarmerProfileEdit-UFQIH5mG.css"
+    ]
+  },
+  "resources/js/Pages/Fragments/DocumentRepository.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/DocumentRepository-FDRLnKRM.js",
+=======
+    "file": "assets/DocumentRepository-DDONBKWU.js",
+>>>>>>> Stashed changes
+    "name": "DocumentRepository",
+    "src": "resources/js/Pages/Fragments/DocumentRepository.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/DocumentRepository-CHz8Jd--.css"
+    ]
+  },
+  "resources/js/Pages/Fragments/GovernanceResolutions.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/GovernanceResolutions-DvamkQrj.js",
+=======
+    "file": "assets/GovernanceResolutions-DEB79KlJ.js",
+>>>>>>> Stashed changes
+    "name": "GovernanceResolutions",
+    "src": "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_LoadingSpinner-B85k-J0U.js",
+=======
+      "_LoadingSpinner-DmTsI6N9.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/GovernanceResolutions-CdhwqA8z.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/Fragments/Home/HomeCooperative.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/HomeCooperative-Qph1NL4U.js",
+=======
+    "file": "assets/HomeCooperative-DHdKqdWz.js",
+>>>>>>> Stashed changes
+    "name": "HomeCooperative",
+    "src": "resources/js/Pages/Fragments/Home/HomeCooperative.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ],
+    "dynamicImports": [
+<<<<<<< Updated upstream
+      "_leaflet-src-CxuAggNq.js",
+      "_leaflet-src-CxuAggNq.js"
+=======
+      "_leaflet-src-tix7Ox0-.js",
+      "_leaflet-src-tix7Ox0-.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/HomeCooperative-CdTwPZcm.css"
+    ]
+  },
+  "resources/js/Pages/Fragments/Home/HomeOperator.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/HomeOperator-BZYxo6ml.js",
+=======
+    "file": "assets/HomeOperator-C5dywQZP.js",
+>>>>>>> Stashed changes
+    "name": "HomeOperator",
+    "src": "resources/js/Pages/Fragments/Home/HomeOperator.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_usePageData-C6AH2_4P.js",
+      "resources/js/app.js",
+      "_useGlobalTransactions-BV-MAAUi.js",
+<<<<<<< Updated upstream
+      "_HomeSkeleton-BQ8IrL_P.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+      "_SideTextButtonList-DTfF3ex-.js",
+      "_GlobalAnnouncement-C8eNh4o0.js",
+=======
+      "_HomeSkeleton-Dl9_7T7y.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+      "_SideTextButtonList-STLwUe6g.js",
+      "_GlobalAnnouncement-DQ_48p1g.js",
+>>>>>>> Stashed changes
+      "resources/js/Pages/CooperativeDetail.vue",
+      "resources/js/Pages/Fragments/DocumentRepository.vue",
+      "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+      "_vendor-Crvo9FBn.js",
+      "_IconImage-BlM5Pej3.js",
+<<<<<<< Updated upstream
+      "_SearchBar-BttZUgR-.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "_usePageTitle-CkXgnaqr.js",
+      "_SearchableTableWrapper-YTpl4pej.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SkeletonTable-DSaPhEz3.js",
+      "_LoadingSpinner-B85k-J0U.js"
+=======
+      "_SearchBar-BnCvQtzy.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "_usePageTitle-BUBzZ_UB.js",
+      "_SearchableTableWrapper-CMdVZlpX.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SkeletonTable-CC_IT7D2.js",
+      "_LoadingSpinner-DmTsI6N9.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/HomeOperator-lHqr6PY7.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/Fragments/Home/HomePublic.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/HomePublic-N2c_rOZM.js",
+=======
+    "file": "assets/HomePublic-Cm8RT5bO.js",
+>>>>>>> Stashed changes
+    "name": "HomePublic",
+    "src": "resources/js/Pages/Fragments/Home/HomePublic.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+<<<<<<< Updated upstream
+      "_SideTextButtonList-DTfF3ex-.js",
+      "_GlobalAnnouncement-C8eNh4o0.js",
+=======
+      "_SideTextButtonList-STLwUe6g.js",
+      "_GlobalAnnouncement-DQ_48p1g.js",
+>>>>>>> Stashed changes
+      "_IconImage-BlM5Pej3.js",
+      "_useAnnouncements-CcXbeMh9.js"
+    ],
+    "css": [
+      "assets/HomePublic-DHg9GJmh.css",
+      "assets/CardSimple-74BTq_PW.css"
+    ]
+  },
+  "resources/js/Pages/Fragments/Home/HomeShared.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/HomeShared-BB7cuVA0.js",
+=======
+    "file": "assets/HomeShared-Bx2Xnz1g.js",
+>>>>>>> Stashed changes
+    "name": "HomeShared",
+    "src": "resources/js/Pages/Fragments/Home/HomeShared.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+<<<<<<< Updated upstream
+      "_SideTextButtonList-DTfF3ex-.js",
+=======
+      "_SideTextButtonList-STLwUe6g.js",
+>>>>>>> Stashed changes
+      "_vendor-Crvo9FBn.js",
+      "_IconImage-BlM5Pej3.js"
+    ]
+  },
+  "resources/js/Pages/Fragments/Home/HomeSuperOperator.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/HomeSuperOperator-WG0h0Qka.js",
+=======
+    "file": "assets/HomeSuperOperator-C4plVWxz.js",
+>>>>>>> Stashed changes
+    "name": "HomeSuperOperator",
+    "src": "resources/js/Pages/Fragments/Home/HomeSuperOperator.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_usePageData-C6AH2_4P.js",
+      "resources/js/app.js",
+      "_useGlobalTransactions-BV-MAAUi.js",
+<<<<<<< Updated upstream
+      "_HomeSkeleton-BQ8IrL_P.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+      "_SideTextButtonList-DTfF3ex-.js",
+      "_GlobalAnnouncement-C8eNh4o0.js",
+=======
+      "_HomeSkeleton-Dl9_7T7y.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+      "_SideTextButtonList-STLwUe6g.js",
+      "_GlobalAnnouncement-DQ_48p1g.js",
+>>>>>>> Stashed changes
+      "resources/js/Pages/CooperativeDetail.vue",
+      "resources/js/Pages/Fragments/DocumentRepository.vue",
+      "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+      "_vendor-Crvo9FBn.js",
+      "_IconImage-BlM5Pej3.js",
+<<<<<<< Updated upstream
+      "_SearchBar-BttZUgR-.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "_usePageTitle-CkXgnaqr.js",
+      "_SearchableTableWrapper-YTpl4pej.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SkeletonTable-DSaPhEz3.js",
+      "_LoadingSpinner-B85k-J0U.js"
+=======
+      "_SearchBar-BnCvQtzy.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "_usePageTitle-BUBzZ_UB.js",
+      "_SearchableTableWrapper-CMdVZlpX.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SkeletonTable-CC_IT7D2.js",
+      "_LoadingSpinner-DmTsI6N9.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/HomeSuperOperator-M3oSALdV.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/Fragments/Home/HomeUltimate.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/HomeUltimate-DoGDYR5Y.js",
+=======
+    "file": "assets/HomeUltimate-D5do0pj1.js",
+>>>>>>> Stashed changes
+    "name": "HomeUltimate",
+    "src": "resources/js/Pages/Fragments/Home/HomeUltimate.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_usePageData-C6AH2_4P.js",
+      "resources/js/app.js",
+      "_useGlobalTransactions-BV-MAAUi.js",
+<<<<<<< Updated upstream
+      "_HomeSkeleton-BQ8IrL_P.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+      "_SideTextButtonList-DTfF3ex-.js",
+      "_GlobalAnnouncement-C8eNh4o0.js",
+=======
+      "_HomeSkeleton-Dl9_7T7y.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+      "_SideTextButtonList-STLwUe6g.js",
+      "_GlobalAnnouncement-DQ_48p1g.js",
+>>>>>>> Stashed changes
+      "resources/js/Pages/CooperativeDetail.vue",
+      "resources/js/Pages/Fragments/DocumentRepository.vue",
+      "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+      "_vendor-Crvo9FBn.js",
+      "_IconImage-BlM5Pej3.js",
+<<<<<<< Updated upstream
+      "_SearchBar-BttZUgR-.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "_usePageTitle-CkXgnaqr.js",
+      "_SearchableTableWrapper-YTpl4pej.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SkeletonTable-DSaPhEz3.js",
+      "_LoadingSpinner-B85k-J0U.js"
+=======
+      "_SearchBar-BnCvQtzy.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "_usePageTitle-BUBzZ_UB.js",
+      "_SearchableTableWrapper-CMdVZlpX.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SkeletonTable-CC_IT7D2.js",
+      "_LoadingSpinner-DmTsI6N9.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/HomeUltimate-D6L9xnis.css",
+      "assets/CardSimple-74BTq_PW.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/Home.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/Home-BZY0Z0uJ.js",
+=======
+    "file": "assets/Home-CijLr97b.js",
+>>>>>>> Stashed changes
+    "name": "Home",
+    "src": "resources/js/Pages/Home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/Pages/Fragments/Home/HomeUltimate.vue",
+      "resources/js/Pages/Fragments/Home/HomePublic.vue",
+      "resources/js/Pages/Fragments/Home/HomeSuperOperator.vue",
+      "resources/js/Pages/Fragments/Home/HomeOperator.vue",
+      "resources/js/Pages/Fragments/Home/HomeShared.vue",
+      "_vendor-Crvo9FBn.js",
+      "_usePageData-C6AH2_4P.js",
+      "_useGlobalTransactions-BV-MAAUi.js",
+<<<<<<< Updated upstream
+      "_HomeSkeleton-BQ8IrL_P.js",
+      "_IconImage-BlM5Pej3.js",
+      "_SearchBar-BttZUgR-.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+      "_SideTextButtonList-DTfF3ex-.js",
+      "_GlobalAnnouncement-C8eNh4o0.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "resources/js/Pages/CooperativeDetail.vue",
+      "_SearchableTableWrapper-YTpl4pej.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SkeletonTable-DSaPhEz3.js",
+      "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+      "_LoadingSpinner-B85k-J0U.js",
+=======
+      "_HomeSkeleton-Dl9_7T7y.js",
+      "_IconImage-BlM5Pej3.js",
+      "_SearchBar-BnCvQtzy.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+      "_ServiceButtonGrid-DQRxiYtv.js",
+      "_SideTextButtonList-STLwUe6g.js",
+      "_GlobalAnnouncement-DQ_48p1g.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "resources/js/Pages/CooperativeDetail.vue",
+      "_SearchableTableWrapper-CMdVZlpX.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SkeletonTable-CC_IT7D2.js",
+      "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+      "_LoadingSpinner-DmTsI6N9.js",
+>>>>>>> Stashed changes
+      "resources/js/Pages/Fragments/DocumentRepository.vue"
+    ],
+    "css": [
+      "assets/Home-BH30wEF2.css",
+      "assets/CardSimple-74BTq_PW.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/LandingPageEditor.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/LandingPageEditor-DsxDiKmw.js",
+=======
+    "file": "assets/LandingPageEditor-lMyNhJJd.js",
+>>>>>>> Stashed changes
+    "name": "LandingPageEditor",
+    "src": "resources/js/Pages/LandingPageEditor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_ConfirmModal-BqwNLkN-.js",
+=======
+      "_ConfirmModal-Bx4qXhHy.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/LandingPageEditor-Dw9KszVp.css"
+    ]
+  },
+  "resources/js/Pages/ListProductsMarket.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ListProductsMarket-BYO2dMjD.js",
+=======
+    "file": "assets/ListProductsMarket-DjyTAbGI.js",
+>>>>>>> Stashed changes
+    "name": "ListProductsMarket",
+    "src": "resources/js/Pages/ListProductsMarket.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_noproductphoto-UH-imJqI.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_SearchBar-BttZUgR-.js",
+      "_ProductCard-Cioy_eJ6.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_SearchBar-BnCvQtzy.js",
+      "_ProductCard-B9gijt9K.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+>>>>>>> Stashed changes
+      "_vendor-Crvo9FBn.js",
+      "_IconImage-BlM5Pej3.js",
+      "_FileImage-BIlzHhhg.js"
+    ],
+    "css": [
+      "assets/ListProductsMarket-CKHIcdWY.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/ListProperties.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ListProperties-BpW4mgNu.js",
+=======
+    "file": "assets/ListProperties-DeXOY9Tu.js",
+>>>>>>> Stashed changes
+    "name": "ListProperties",
+    "src": "resources/js/Pages/ListProperties.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js",
+>>>>>>> Stashed changes
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/ListProperties-VIugfQDO.css"
+    ]
+  },
+  "resources/js/Pages/ListReferrals.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ListReferrals-DuWZK4xw.js",
+=======
+    "file": "assets/ListReferrals-BKX_4PcI.js",
+>>>>>>> Stashed changes
+    "name": "ListReferrals",
+    "src": "resources/js/Pages/ListReferrals.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js",
+>>>>>>> Stashed changes
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/ListReferrals-BwP3s3eS.css"
+    ]
+  },
+  "resources/js/Pages/ListReports.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ListReports-DJmNEh4D.js",
+=======
+    "file": "assets/ListReports-CMRVjwPr.js",
+>>>>>>> Stashed changes
+    "name": "ListReports",
+    "src": "resources/js/Pages/ListReports.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js",
+>>>>>>> Stashed changes
+      "_vendor-Crvo9FBn.js"
+    ],
+    "css": [
+      "assets/ListReports-D5JWjb2x.css"
+    ]
+  },
+  "resources/js/Pages/ListStores.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ListStores-FZb8wf1E.js",
+=======
+    "file": "assets/ListStores-DMfQFGeQ.js",
+>>>>>>> Stashed changes
+    "name": "ListStores",
+    "src": "resources/js/Pages/ListStores.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_StoreListSkeleton-BPpcBW-d.js",
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "resources/js/composables/useFileBlobCache.js",
+      "_SearchBar-BttZUgR-.js",
+      "_usePageData-C6AH2_4P.js",
+      "_vendor-Crvo9FBn.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+=======
+      "_StoreListSkeleton-D3yogkW0.js",
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "resources/js/composables/useFileBlobCache.js",
+      "_SearchBar-BnCvQtzy.js",
+      "_usePageData-C6AH2_4P.js",
+      "_vendor-Crvo9FBn.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+>>>>>>> Stashed changes
+      "_IconImage-BlM5Pej3.js"
+    ],
+    "css": [
+      "assets/ListStores-CLJvE74C.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/ManageAnnouncements.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ManageAnnouncements-BWTwezpn.js",
+=======
+    "file": "assets/ManageAnnouncements-CcCl1WOu.js",
+>>>>>>> Stashed changes
+    "name": "ManageAnnouncements",
+    "src": "resources/js/Pages/ManageAnnouncements.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "_LoadingSpinner-B85k-J0U.js",
+      "_SearchBar-BttZUgR-.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_useAnnouncements-CcXbeMh9.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+      "_SearchBar-BnCvQtzy.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js",
+      "_IconImage-BlM5Pej3.js"
+    ],
+    "css": [
+      "assets/ManageAnnouncements-C5v9kvRs.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/ManageGlobalTransactions.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ManageGlobalTransactions-ZoExehsC.js",
+=======
+    "file": "assets/ManageGlobalTransactions-B3xTpzDd.js",
+>>>>>>> Stashed changes
+    "name": "ManageGlobalTransactions",
+    "src": "resources/js/Pages/ManageGlobalTransactions.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_noproductphoto-UH-imJqI.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js",
+      "_FileImage-BIlzHhhg.js",
+      "_useGlobalTransactions-BV-MAAUi.js",
+      "_useUserSettings-CgBPnYH1.js",
+<<<<<<< Updated upstream
+      "_SkeletonTable-DSaPhEz3.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SearchBar-BttZUgR-.js",
+      "_vendor-Crvo9FBn.js",
+      "_BackButton-L6EhJWkv.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+=======
+      "_SkeletonTable-CC_IT7D2.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SearchBar-BnCvQtzy.js",
+      "_vendor-Crvo9FBn.js",
+      "_BackButton-CFLWcfRS.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+>>>>>>> Stashed changes
+      "_IconImage-BlM5Pej3.js"
+    ],
+    "css": [
+      "assets/ManageGlobalTransactions-DcvxMGyg.css"
+    ]
+  },
+  "resources/js/Pages/ManageProductAdmin.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ManageProductAdmin-CnC7vy8T.js",
+=======
+    "file": "assets/ManageProductAdmin-CX4jojBV.js",
+>>>>>>> Stashed changes
+    "name": "ManageProductAdmin",
+    "src": "resources/js/Pages/ManageProductAdmin.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_LoadingSpinner-B85k-J0U.js",
+      "_FileImage-BIlzHhhg.js",
+      "_BackButton-L6EhJWkv.js",
+      "_useFileUpload-umNfKb1v.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+      "_FileImage-BIlzHhhg.js",
+      "_BackButton-CFLWcfRS.js",
+      "_useFileUpload-Bgy475YB.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/ManageProductAdmin-e5WYzdGz.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/ManageProductsAdmin.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ManageProductsAdmin-Bytmz7ZO.js",
+=======
+    "file": "assets/ManageProductsAdmin-BX0q-kgV.js",
+>>>>>>> Stashed changes
+    "name": "ManageProductsAdmin",
+    "src": "resources/js/Pages/ManageProductsAdmin.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_noproductphoto-UH-imJqI.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_LoadingSpinner-B85k-J0U.js",
+      "_FileImage-BIlzHhhg.js",
+      "_useUserSettings-CgBPnYH1.js",
+      "_SearchableTableWrapper-YTpl4pej.js",
+      "_BackButton-L6EhJWkv.js",
+      "_SearchBar-BttZUgR-.js",
+      "_IconImage-BlM5Pej3.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SkeletonTable-DSaPhEz3.js",
+      "_SkeletonBlock-DkOo8XIA.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+      "_FileImage-BIlzHhhg.js",
+      "_useUserSettings-CgBPnYH1.js",
+      "_SearchableTableWrapper-CMdVZlpX.js",
+      "_BackButton-CFLWcfRS.js",
+      "_SearchBar-BnCvQtzy.js",
+      "_IconImage-BlM5Pej3.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SkeletonTable-CC_IT7D2.js",
+      "_SkeletonBlock-Bcn1FAIQ.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/ManageProductsAdmin-Dt85EMvn.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/ManageStoresAdmin.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ManageStoresAdmin-CSlX7r2t.js",
+=======
+    "file": "assets/ManageStoresAdmin-Catz8mFQ.js",
+>>>>>>> Stashed changes
+    "name": "ManageStoresAdmin",
+    "src": "resources/js/Pages/ManageStoresAdmin.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_FileImage-BIlzHhhg.js",
+      "_BackButton-L6EhJWkv.js",
+      "_useUserSettings-CgBPnYH1.js",
+      "_SearchableTableWrapper-YTpl4pej.js",
+      "_SearchBar-BttZUgR-.js",
+      "_IconImage-BlM5Pej3.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SkeletonTable-DSaPhEz3.js",
+      "_SkeletonBlock-DkOo8XIA.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_FileImage-BIlzHhhg.js",
+      "_BackButton-CFLWcfRS.js",
+      "_useUserSettings-CgBPnYH1.js",
+      "_SearchableTableWrapper-CMdVZlpX.js",
+      "_SearchBar-BnCvQtzy.js",
+      "_IconImage-BlM5Pej3.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SkeletonTable-CC_IT7D2.js",
+      "_SkeletonBlock-Bcn1FAIQ.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/ManageStoresAdmin-DI2Anu3H.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/ManageUser.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ManageUser-B1J78FJv.js",
+=======
+    "file": "assets/ManageUser-DUQqGb5G.js",
+>>>>>>> Stashed changes
+    "name": "ManageUser",
+    "src": "resources/js/Pages/ManageUser.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_SideTextButtonList-DTfF3ex-.js",
+      "_InputGroupTextarea-DONTSX3I.js",
+      "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-BkM6DnDh.js",
+      "_BackButton-L6EhJWkv.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_SideTextButtonList-STLwUe6g.js",
+      "_InputGroupTextarea-BPco1CFd.js",
+      "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-eKdwv6M_.js",
+      "_BackButton-CFLWcfRS.js",
+>>>>>>> Stashed changes
+      "_IconImage-BlM5Pej3.js"
+    ],
+    "css": [
+      "assets/ManageUser-Wh2-QwEO.css"
+    ]
+  },
+  "resources/js/Pages/MyStores.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/MyStores-CPn4xKMj.js",
+=======
+    "file": "assets/MyStores-Bf07R9Bd.js",
+>>>>>>> Stashed changes
+    "name": "MyStores",
+    "src": "resources/js/Pages/MyStores.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_StoreListSkeleton-BPpcBW-d.js",
+      "_usePageTitle-CkXgnaqr.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_SearchBar-BttZUgR-.js",
+      "_BackButton-L6EhJWkv.js",
+      "_FileImage-BIlzHhhg.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+=======
+      "_StoreListSkeleton-D3yogkW0.js",
+      "_usePageTitle-BUBzZ_UB.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_SearchBar-BnCvQtzy.js",
+      "_BackButton-CFLWcfRS.js",
+      "_FileImage-BIlzHhhg.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+>>>>>>> Stashed changes
+      "_IconImage-BlM5Pej3.js"
+    ],
+    "css": [
+      "assets/MyStores-BMn-RZla.css"
+    ]
+  },
+  "resources/js/Pages/MyWallet.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/MyWallet-uyRBmfba.js",
+=======
+    "file": "assets/MyWallet-ChJSU2b9.js",
+>>>>>>> Stashed changes
+    "name": "MyWallet",
+    "src": "resources/js/Pages/MyWallet.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/MyWallet-8m2_CMtn.css"
+    ]
+  },
+  "resources/js/Pages/PhotoViewer.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/PhotoViewer-BCtZNcg_.js",
+=======
+    "file": "assets/PhotoViewer-Bb6O_oqA.js",
+>>>>>>> Stashed changes
+    "name": "PhotoViewer",
+    "src": "resources/js/Pages/PhotoViewer.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "resources/js/composables/useFileBlobCache.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "resources/js/composables/useFileBlobCache.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/PhotoViewer-D6CPG7I5.css"
+    ]
+  },
+  "resources/js/Pages/PosAccessKeys.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/PosAccessKeys-CIapOkXj.js",
+=======
+    "file": "assets/PosAccessKeys-S9NMhgnn.js",
+>>>>>>> Stashed changes
+    "name": "PosAccessKeys",
+    "src": "resources/js/Pages/PosAccessKeys.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/PosAccessKeys-B-gsSlnU.css"
+    ]
+  },
+  "resources/js/Pages/PosHistory.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/PosHistory-nUhH_M3G.js",
+=======
+    "file": "assets/PosHistory-BUSDNyfi.js",
+>>>>>>> Stashed changes
+    "name": "PosHistory",
+    "src": "resources/js/Pages/PosHistory.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js",
+      "_SkeletonTable-DSaPhEz3.js",
+      "_SkeletonBlock-DkOo8XIA.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js",
+      "_SkeletonTable-CC_IT7D2.js",
+      "_SkeletonBlock-Bcn1FAIQ.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/PosHistory-Ci_rAQC4.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/PosMain.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/PosMain-DalFCEdj.js",
+=======
+    "file": "assets/PosMain-CVHfqADb.js",
+>>>>>>> Stashed changes
+    "name": "PosMain",
+    "src": "resources/js/Pages/PosMain.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "_useUserSettings-CgBPnYH1.js",
+      "_FileImage-BIlzHhhg.js"
+    ],
+    "css": [
+      "assets/PosMain-CIIe8WCE.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/RegisterCoop.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/RegisterCoop-C2ZKRoia.js",
+=======
+    "file": "assets/RegisterCoop-B073R0pb.js",
+>>>>>>> Stashed changes
+    "name": "RegisterCoop",
+    "src": "resources/js/Pages/RegisterCoop.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/RemoveProductFromStoreAdmin.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/RemoveProductFromStoreAdmin-BAm_ppkg.js",
+=======
+    "file": "assets/RemoveProductFromStoreAdmin-BuIuK265.js",
+>>>>>>> Stashed changes
+    "name": "RemoveProductFromStoreAdmin",
+    "src": "resources/js/Pages/RemoveProductFromStoreAdmin.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_store-QU59OX9Y.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_store-Cqv4nEfC.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/RemoveProductFromStoreAdmin-CMOISVi0.css"
+    ]
+  },
+  "resources/js/Pages/ShipmentDetail.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ShipmentDetail-CfAP4Zrv.js",
+=======
+    "file": "assets/ShipmentDetail-C18nVbHN.js",
+>>>>>>> Stashed changes
+    "name": "ShipmentDetail",
+    "src": "resources/js/Pages/ShipmentDetail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-B85k-J0U.js",
+      "_CardSimple-7hkZyELO.js",
+      "_InputGroupButton-Bmkcuhiv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+      "_CardSimple-CIoHxGjb.js",
+      "_InputGroupButton-CjMsrvB0.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/ShipmentDetail-Cd9RAr2M.css",
+      "assets/LoadingSpinner-CznhUxaB.css",
+      "assets/CardSimple-74BTq_PW.css",
+      "assets/InputGroupButton-COrpqvPr.css"
+    ]
+  },
+  "resources/js/Pages/ShipmentList.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ShipmentList-8zLSqft-.js",
+=======
+    "file": "assets/ShipmentList-6dOUcahG.js",
+>>>>>>> Stashed changes
+    "name": "ShipmentList",
+    "src": "resources/js/Pages/ShipmentList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_TransactionListSkeleton-C11libmC.js",
+      "_SearchBar-BttZUgR-.js",
+      "_SkeletonBlock-DkOo8XIA.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_TransactionListSkeleton-DGLJQKR6.js",
+      "_SearchBar-BnCvQtzy.js",
+      "_SkeletonBlock-Bcn1FAIQ.js",
+>>>>>>> Stashed changes
+      "_IconImage-BlM5Pej3.js"
+    ],
+    "css": [
+      "assets/ShipmentList-B1pB9pX3.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/SystemSettings.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/SystemSettings-BGYnFl1p.js",
+=======
+    "file": "assets/SystemSettings-iz0RtRR6.js",
+>>>>>>> Stashed changes
+    "name": "SystemSettings",
+    "src": "resources/js/Pages/SystemSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/SystemSettings-BFotmWzk.css"
+    ]
+  },
+  "resources/js/Pages/TransferCredit.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/TransferCredit-CeZt9KrP.js",
+=======
+    "file": "assets/TransferCredit-B83YEHvi.js",
+>>>>>>> Stashed changes
+    "name": "TransferCredit",
+    "src": "resources/js/Pages/TransferCredit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+>>>>>>> Stashed changes
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/TransferCredit-DFXrphnK.css"
+    ]
+  },
+  "resources/js/Pages/TransferMyCredit.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/TransferMyCredit-CjKZRVjF.js",
+=======
+    "file": "assets/TransferMyCredit-BTRpUmHn.js",
+>>>>>>> Stashed changes
+    "name": "TransferMyCredit",
+    "src": "resources/js/Pages/TransferMyCredit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/TransferMyCredit-BVIwk_lH.css"
+    ]
+  },
+  "resources/js/Pages/UltimateConsole.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/UltimateConsole-BH7x_EXL.js",
+=======
+    "file": "assets/UltimateConsole-Bj5n_jFq.js",
+>>>>>>> Stashed changes
+    "name": "UltimateConsole",
+    "src": "resources/js/Pages/UltimateConsole.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_ConfirmModal-BqwNLkN-.js"
+=======
+      "_ConfirmModal-Bx4qXhHy.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/UltimateConsole-C00CQRr-.css"
+    ]
+  },
+  "resources/js/Pages/UserInfoEdit.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/UserInfoEdit-CcvOG0cO.js",
+=======
+    "file": "assets/UserInfoEdit-DlRRtczk.js",
+>>>>>>> Stashed changes
+    "name": "UserInfoEdit",
+    "src": "resources/js/Pages/UserInfoEdit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_CardSimple-7hkZyELO.js",
+      "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-BkM6DnDh.js",
+      "_InputGroupSelect-Dztd3KqU.js",
+      "_InputGroupButton-Bmkcuhiv.js",
+      "_IconImage-BlM5Pej3.js",
+      "_LoadingSpinner-B85k-J0U.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_CardSimple-CIoHxGjb.js",
+      "_InputGroupTextarea.vue_vue_type_style_index_0_scoped_56bce2cf_lang-eKdwv6M_.js",
+      "_InputGroupSelect-D3bH3NwU.js",
+      "_InputGroupButton-CjMsrvB0.js",
+      "_IconImage-BlM5Pej3.js",
+      "_LoadingSpinner-DmTsI6N9.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/CardSimple-74BTq_PW.css",
+      "assets/LoadingSpinner-CznhUxaB.css",
+      "assets/InputGroupButton-COrpqvPr.css"
+    ]
+  },
+  "resources/js/Pages/UserList.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/UserList-CqTevxLz.js",
+=======
+    "file": "assets/UserList-C2IFlmcR.js",
+>>>>>>> Stashed changes
+    "name": "UserList",
+    "src": "resources/js/Pages/UserList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_useUserSettings-CgBPnYH1.js",
+      "_TableDensityToggle-J8o_a6GE.js",
+      "_SearchBar-BttZUgR-.js",
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_useUserSettings-CgBPnYH1.js",
+      "_TableDensityToggle-DzKgxNCc.js",
+      "_SearchBar-BnCvQtzy.js",
+>>>>>>> Stashed changes
+      "_usePageData-C6AH2_4P.js",
+      "_IconImage-BlM5Pej3.js"
+    ],
+    "css": [
+      "assets/UserList-Bi9SZnbt.css"
+    ]
+  },
+  "resources/js/Pages/VerificationDashboard.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/VerificationDashboard-BdhDIyjN.js",
+=======
+    "file": "assets/VerificationDashboard-DXC3LH8Q.js",
+>>>>>>> Stashed changes
+    "name": "VerificationDashboard",
+    "src": "resources/js/Pages/VerificationDashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "resources/js/app.js",
+      "_BackButton-L6EhJWkv.js",
+      "_TransactionListSkeleton-C11libmC.js",
+      "_SkeletonBlock-DkOo8XIA.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "resources/js/app.js",
+      "_BackButton-CFLWcfRS.js",
+      "_TransactionListSkeleton-DGLJQKR6.js",
+      "_SkeletonBlock-Bcn1FAIQ.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/VerificationDashboard-DzQIj4ZG.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/Pages/ViewAllPhotos.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ViewAllPhotos-wp4yY2po.js",
+=======
+    "file": "assets/ViewAllPhotos-wZ7Nfq2P.js",
+>>>>>>> Stashed changes
+    "name": "ViewAllPhotos",
+    "src": "resources/js/Pages/ViewAllPhotos.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/composables/useFileBlobCache.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/composables/useFileBlobCache.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "dynamicImports": [
+      "resources/js/composables/useFileBlobCache.js"
+    ],
+    "css": [
+      "assets/ViewAllPhotos-B9xjyxXH.css"
+    ]
+  },
+  "resources/js/Pages/ViewStoreMarket.vue": {
+<<<<<<< Updated upstream
+    "file": "assets/ViewStoreMarket-W0sEA7tn.js",
+=======
+    "file": "assets/ViewStoreMarket-CUkDyJPs.js",
+>>>>>>> Stashed changes
+    "name": "ViewStoreMarket",
+    "src": "resources/js/Pages/ViewStoreMarket.vue",
+    "isDynamicEntry": true,
+    "imports": [
+<<<<<<< Updated upstream
+      "_usePageTitle-CkXgnaqr.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-B85k-J0U.js",
+      "_ProductCard-Cioy_eJ6.js",
+      "_FileImage-BIlzHhhg.js",
+      "_BackButton-L6EhJWkv.js"
+=======
+      "_usePageTitle-BUBzZ_UB.js",
+      "_vendor-Crvo9FBn.js",
+      "resources/js/app.js",
+      "_LoadingSpinner-DmTsI6N9.js",
+      "_ProductCard-B9gijt9K.js",
+      "_FileImage-BIlzHhhg.js",
+      "_BackButton-CFLWcfRS.js"
+>>>>>>> Stashed changes
+    ],
+    "css": [
+      "assets/ViewStoreMarket-C8BO7Yn_.css",
+      "assets/LoadingSpinner-CznhUxaB.css"
+    ]
+  },
+  "resources/js/app.js": {
+<<<<<<< Updated upstream
+    "file": "assets/app-Bknysetf.js",
+=======
+    "file": "assets/app-mE3nXN15.js",
+>>>>>>> Stashed changes
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-Crvo9FBn.js"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/AccountSettings.vue",
+      "resources/js/Pages/AccountingDashboard.vue",
+      "resources/js/Pages/AddTransaction.vue",
+      "resources/js/Pages/AssignProductToStore.vue",
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/BatchAddProducts.vue",
+      "resources/js/Pages/BatchAddStores.vue",
+      "resources/js/Pages/BatchAddUsers.vue",
+      "resources/js/Pages/BuyViewProductMarket.vue",
+      "resources/js/Pages/CartProductMarket.vue",
+      "resources/js/Pages/CooperativeDetail.vue",
+      "resources/js/Pages/CooperativeList.vue",
+      "resources/js/Pages/CooperativeMemberRegister.vue",
+      "resources/js/Pages/Core/NotFound.vue",
+      "resources/js/Pages/CreateCooperative.vue",
+      "resources/js/Pages/CreateProductUltimate.vue",
+      "resources/js/Pages/CreateStore.vue",
+      "resources/js/Pages/CreateUser.vue",
+      "resources/js/Pages/EditProductUltimate.vue",
+      "resources/js/Pages/EditStoreUltimate.vue",
+      "resources/js/Pages/EditUser.vue",
+      "resources/js/Pages/EnrollFarmer.vue",
+      "resources/js/Pages/FarmerProfileEdit.vue",
+      "resources/js/Pages/Fragments/DocumentRepository.vue",
+      "resources/js/Pages/Fragments/GovernanceResolutions.vue",
+      "resources/js/Pages/Fragments/Home/HomeCooperative.vue",
+      "resources/js/Pages/Fragments/Home/HomeOperator.vue",
+      "resources/js/Pages/Fragments/Home/HomePublic.vue",
+      "resources/js/Pages/Fragments/Home/HomeShared.vue",
+      "resources/js/Pages/Fragments/Home/HomeSuperOperator.vue",
+      "resources/js/Pages/Fragments/Home/HomeUltimate.vue",
+      "resources/js/Pages/Home.vue",
+      "resources/js/Pages/LandingPageEditor.vue",
+      "resources/js/Pages/ListProductsMarket.vue",
+      "resources/js/Pages/ListProperties.vue",
+      "resources/js/Pages/ListReferrals.vue",
+      "resources/js/Pages/ListReports.vue",
+      "resources/js/Pages/ListStores.vue",
+      "resources/js/Pages/ManageAnnouncements.vue",
+      "resources/js/Pages/ManageGlobalTransactions.vue",
+      "resources/js/Pages/ManageProductAdmin.vue",
+      "resources/js/Pages/ManageProductsAdmin.vue",
+      "resources/js/Pages/ManageStoresAdmin.vue",
+      "resources/js/Pages/ManageUser.vue",
+      "resources/js/Pages/MyStores.vue",
+      "resources/js/Pages/MyWallet.vue",
+      "resources/js/Pages/PhotoViewer.vue",
+      "resources/js/Pages/PosAccessKeys.vue",
+      "resources/js/Pages/PosHistory.vue",
+      "resources/js/Pages/PosMain.vue",
+      "resources/js/Pages/RegisterCoop.vue",
+      "resources/js/Pages/RemoveProductFromStoreAdmin.vue",
+      "resources/js/Pages/ShipmentDetail.vue",
+      "resources/js/Pages/ShipmentList.vue",
+      "resources/js/Pages/SystemSettings.vue",
+      "resources/js/Pages/TransferCredit.vue",
+      "resources/js/Pages/TransferMyCredit.vue",
+      "resources/js/Pages/UltimateConsole.vue",
+      "resources/js/Pages/UserInfoEdit.vue",
+      "resources/js/Pages/UserList.vue",
+      "resources/js/Pages/VerificationDashboard.vue",
+      "resources/js/Pages/ViewAllPhotos.vue",
+      "resources/js/Pages/ViewStoreMarket.vue"
+    ],
+    "css": [
+      "assets/app-DMIl6fwg.css"
+    ]
+  },
+  "resources/js/composables/useFileBlobCache.js": {
+<<<<<<< Updated upstream
+    "file": "assets/useFileBlobCache-BjfOjMkB.js",
+=======
+    "file": "assets/useFileBlobCache-Bb1o5fVu.js",
+>>>>>>> Stashed changes
+    "name": "useFileBlobCache",
+    "src": "resources/js/composables/useFileBlobCache.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_vendor-Crvo9FBn.js"
+    ]
+  }
+}
